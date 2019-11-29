@@ -1,16 +1,16 @@
 # Icons on the footer
 rss: true         # Make sure you created a feed.xml with feed.xml layout
-email_address:    # Full email address, e.g. "sam@example.com"
+email_address: "dasomming@kakao.com"    # Full email address, e.g. "sam@example.com"
 behance:
 bitbucket:
 dribbble:
 facebook:
 flickr:
 gitlab:
-github: "sylhare"
+github: "dasom-kim"
 instagram:
 keybase:
-linkedin:         # Full URL
+linkedin: https://www.linkedin.com/in/%EB%8B%A4%EC%86%9C-%EA%B9%80-536875194/         # Full URL
 pinterest:
 reddit:
 soundcloud:
