@@ -6,7 +6,7 @@ url: "https://dasom-kim.github.io"
 title: Love Struck                                      # site's title
 description: "A website with blog posts and pages"      # used by search engines
 avatar: assets/img/misstofu.png                         # Empty for no avatar in navbar
-favicon: assets/favicon.ico                             # Icon displayed in the tab
+favicon: assets/misstofu_favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: Dasomming and...                           # Change Blog header text
