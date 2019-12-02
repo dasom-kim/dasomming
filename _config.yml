@@ -1,12 +1,12 @@
 # SITE CONFIGURATION
-baseurl: ""
+baseurl: "/Love-Struck"
 url: "https://dasom-kim.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Love Struck                                      # site's title
-description: "Posts about various topics especially on programming"      # used by search engines
+description: "Postings about various topics expecially programming"      # used by search engines
 avatar: assets/img/misstofu.png                         # Empty for no avatar in navbar
-favicon: assets/misstofu_favicon.ico                             # Icon displayed in the tab
+favicon: assets/misstofu_favicon.ico                    # Icon displayed in the tab
 
 # Header and footer text
 header_text: Dasomming and...                           # Change Blog header text
