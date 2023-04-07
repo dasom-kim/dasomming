@@ -1,1 +1,0 @@
-{% include wedding.html %}
